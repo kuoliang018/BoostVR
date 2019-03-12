@@ -10,7 +10,7 @@
 
 We plan to implement a racing game in VR, using Oculus Rift and Unity 3D and the game works very much like the IOS game [Boost2](https://itunes.apple.com/us/app/boost-2/id333191476?mt=8), by Jonathan Lanis. Here are some screenshots of the game:
 
-![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg =250x250 "Screenshot 1")
+![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg  "Screenshot 1" =250x250)
 
 ![alt text](https://lh4.ggpht.com/1w7bc3BbqJwLWz24M7Dn0Fmd7UJLxCCYivGhSNthVazWtMBf_h8U4sQm2Nnua-5jj5qJ=h310-rw =250x250 "Screenshot 2")
 
