@@ -36,7 +36,7 @@ In the game, the player always moves forward in the scene and has to avoid colli
 
 4. Spatial Audio
 
- A game has no soul without sound effects.
+  A game has no soul without sound effects.
 
 5. Interactive Tutorial
 
