@@ -24,20 +24,20 @@ In the game, the player always moves forward in the scene and has to avoid colli
 
 1. System Control and Symbolic Input
 
-We would first implement System Control by providing the user with menus. The player should be allowed to set the color theme, starting speed, difficulties, and sound volumns.
+...We would first implement System Control by providing the user with menus. The player should be allowed to set the color theme, starting speed, difficulties, and sound volumns.
 
 2. Navigation and Travel
 
-The player will automatically proceed in the racing, but they can control to steer left or steer right to avoid collision. Additionally, when there is an obstacle/cube ahead, we will color to whole racing trail to indicate the incoming cube.
+...The player will automatically proceed in the racing, but they can control to steer left or steer right to avoid collision. Additionally, when there is an obstacle/cube ahead, we will color to whole racing trail to indicate the incoming cube.
 
 3. Multi-Player Mode
 
-After selecting the multiplayer mode, two players will be put in the same game scene and try to survive as long as possible. In a multiplayer mode, two players can see each other in the tunnel/racing trails and can pick up special items to increase another players' life. This way they have to help each other out in order to get maximum score.
+...After selecting the multiplayer mode, two players will be put in the same game scene and try to survive as long as possible. In a multiplayer mode, two players can see each other in the tunnel/racing trails and can pick up special items to increase another players' life. This way they have to help each other out in order to get maximum score.
 
 4. Spatial Audio
 
-A game has no soul without sound effects.
+...A game has no soul without sound effects.
 
 5. Interactive Tutorial
 
-We will provide traning mode to demonstrate the rules of the game.
+...We will provide traning mode to demonstrate the rules of the game.
