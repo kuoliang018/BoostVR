@@ -17,7 +17,7 @@ We plan to implement a racing game in VR, using Oculus Rift and Unity 3D and the
 ![alt text](https://d3e4aumcqn8cw3.cloudfront.net/api/file/6fTxPSqCRKGHChEqKUFT "Screenshot 3")
 
 ![alt text](https://static-s.aa-cdn.net/img/ios/333191476/531dced50a7bc4db8db307e8c21dd51b "Screenshot 4")
-
+Implemented the multiplayer mode and a menu.
 New Pictures:
 clients: <br>
 ![alt text](https://github.com/kuoliang018/BoostVR/blob/master/client1.PNG  "Screenshot 1")
