@@ -19,13 +19,13 @@ We plan to implement a racing game in VR, using Oculus Rift and Unity 3D and the
 ![alt text](https://static-s.aa-cdn.net/img/ios/333191476/531dced50a7bc4db8db307e8c21dd51b "Screenshot 4")
 
 New Pictures:
-clients:
-![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg  "Screenshot 1")
-![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg  "Screenshot 1")
+clients: <br>
+![alt text](https://github.com/kuoliang018/BoostVR/blob/master/client1.PNG  "Screenshot 1")
+![alt text](https://github.com/kuoliang018/BoostVR/blob/master/client2.PNG  "Screenshot 1")
 server:
-![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg  "Screenshot 1")
+![alt text](https://github.com/kuoliang018/BoostVR/blob/master/server.PNG  "Screenshot 1")
 menu:
-![alt text](https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/d3/02/8f/d3028fd9-0e9b-c60e-557e-64f1da287924/pr_source.jpg/643x0w.jpg  "Screenshot 1")
+![alt text](https://github.com/kuoliang018/BoostVR/blob/master/menu.PNG  "Screenshot 1")
 In the game, the player always moves forward in the scene and has to avoid colliding with the colored cudes. The player will be warned by an incoming cube by the change of color on the ground. The patterns of the cubes will become more and more complicated, and the speed of the player will grow over time as well, making it harder and harder to avoid the cubes.
 
 ### Technical Features
